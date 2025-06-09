@@ -1,2 +1,2 @@
 # boonst.github.io
-Travel, Food and Hobby Page
+Travel, Food, Investment and Good Life Page
